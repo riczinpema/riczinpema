@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riczinpema
-- 👀 I’m interested in Python,JSON,Javascript,Django,API,Backend Developement, Front end Developement, Ux Research ,Design Thinking and Machine Learning, IOT and AI etc
-- 🌱 I’m currently learning Javascript,NodeJS.
+- 👀 I’m interested in JSON,Javascript,API,Backend Developement, Front end Developement, Ux Research ,Design Thinking about AI/ML/VR/XR/MR and experimenting.
+- 🌱 I’m currently tinkering with Javascript,NodeJS.
 - 💞️ I’m looking to collaborate on any projects that excites me.
 - 📫 How to reach me :pema.riczin@gmail.com
 
